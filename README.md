@@ -3,6 +3,8 @@ Reconvolution fitting for lifetime measurements
 
 Inspired by [DLTReconvolution](https://github.com/dpscience/DLTReconvolution)
 
+Citations: [![DOI](https://zenodo.org/badge/461748679.svg)](https://zenodo.org/badge/latestdoi/461748679)
+
 ## Fitting procedure
 0. Generate test data
    1. Generate Gaussian IRF
